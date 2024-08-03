@@ -1,0 +1,26 @@
+{
+    "id": "0F8D7013",
+    "path": "~/000_DataScience/01_R/01Statistics_Math CU/2301286_Prob-Stat_2021.R",
+    "project_path": null,
+    "type": "r_source",
+    "hash": "1816031559",
+    "contents": "",
+    "dirty": false,
+    "created": 1722679799230.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "101,0",
+        "scrollLine": "0"
+    },
+    "folds": "0|10|13|0|\n14|9|72|0|\n73|7|97|0|\n141|33|143|0|\n144|32|147|0|\n148|43|168|0|\n169|15|210|0|\n211|44|226|0|\n227|37|309|0|\n",
+    "lastKnownWriteTime": 1722691842,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1722691842892,
+    "read_only": false,
+    "read_only_alternatives": []
+}
